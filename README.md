@@ -2,7 +2,7 @@
 微信+ChatGPT自动回复机器人
 
 
-## 注意: 该代码版本为Mac版微信,效果为iPhone
+## 注意: 该代码为Mac版微信,效果为iPhone
 ### 自动回复均为ChatGPT接口
 ### Veision:  3.7.0
 
@@ -25,9 +25,9 @@
 ### 用法
 
 #### Config.h
-  - <ChatGPT_Api_key> = 配置API_Key [^必须]
-  - <codeWords> = 文字暗语
-  - <pictureCodeWords> = 图片暗语
+  - `<ChatGPT_Api_key>` = 配置API_Key [^必须]
+  - `<codeWords>` = 文字暗语
+  - `<pictureCodeWords>` = 图片暗语
 
 配置后,运行项目,即可使用
 如果不用了之后打开微信失败，请运行项目中[^./Orther/Uninstall.sh]文件即可恢复到原始文件
