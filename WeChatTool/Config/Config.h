@@ -11,7 +11,7 @@
 #define WXLocalizedString(key)  [[NSBundle mainBundle] localizedStringForKey:(key) value:@"" table:nil]
 
 #define TIMEOUT 60.f //请求超时时间
-#define ChatGPT_Api_key @"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"
+#define ChatGPT_Api_key @""
 
 
 
