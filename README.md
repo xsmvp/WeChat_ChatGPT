@@ -6,4 +6,4 @@
 ## Veision:  3.7.0
 ### 效果 
 
-![效果图1](https://github.com/xsmvp/WeChat_ChatGPT/blob/main/Other/Images/IMG_0002.PNG)
+<img src="https://github.com/xsmvp/WeChat_ChatGPT/blob/main/Other/Images/IMG_0002.PNG" width="50%"/>
