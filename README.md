@@ -3,6 +3,7 @@
 
 
 ## 注意: 该代码版本为Mac版微信,效果为iPhone
-## Veision:
-### 效果
+## Veision:  3.7.0
+### 效果 
 
+![效果图1](https://github.com/xsmvp/WeChat_ChatGPT/blob/main/Other/Images/IMG_0002.PNG)
