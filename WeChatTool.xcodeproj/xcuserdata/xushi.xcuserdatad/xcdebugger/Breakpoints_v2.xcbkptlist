@@ -14,8 +14,8 @@
             filePath = "WeChatTool/Hook/WeChat+hook.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "303"
-            endingLineNumber = "303"
+            startingLineNumber = "251"
+            endingLineNumber = "251"
             landmarkName = "-replyImage:msgData:"
             landmarkType = "7">
             <Locations>
@@ -62,8 +62,8 @@
             filePath = "WeChatTool/Hook/WeChat+hook.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "199"
-            endingLineNumber = "199"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
             landmarkName = "-chatGptImageRequest:msgData:"
             landmarkType = "7">
             <Locations>
@@ -125,8 +125,8 @@
             filePath = "WeChatTool/Hook/WeChat+hook.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "188"
-            endingLineNumber = "188"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
             landmarkName = "-chatGptTextRequest:msgData:"
             landmarkType = "7">
             <Locations>
@@ -188,8 +188,8 @@
             filePath = "WeChatTool/Hook/WeChat+hook.m"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "151"
-            endingLineNumber = "151"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
             landmarkName = "-messageFormatHandle:msgData:"
             landmarkType = "7">
          </BreakpointContent>
